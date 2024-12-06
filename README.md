@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Devops
+- 📫 How to reach me: aashishkushwaha056@gmail.com
+-  🤔 I’m looking for help regarding opensource 
 
 <!--
 **aashish2998/aashish2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
