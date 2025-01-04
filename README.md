@@ -4,7 +4,7 @@
 -  🤔 I’m looking for help regarding opensource
 
 -  Coding Platform Links :
--  Gfg -https://www.geeksforgeeks.org/user/aashishkushwaha056/
+-  Gfg - https://www.geeksforgeeks.org/user/aashishkushwaha056/
 -  LeetCode- https://leetcode.com/u/Aashish_kushwaha/
 -  HackerRank- https://www.hackerrank.com/profile/aashishkushwaha1
 -  Coding Ninjas- https://www.naukri.com/code360/profile/aashish_29
