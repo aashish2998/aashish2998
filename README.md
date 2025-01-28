@@ -1,6 +1,7 @@
-## Hi there 👋 , I am Aashish Kushwaha , an aspiring Devops and MLops enthusiast.
-- 🚀 I am passionate about exploring the exciting world of DevOps and MLOps to optimize and automate the deployment, management, and scaling of applications and machine 
-🌱 I’m currently learning :
+ # Hi there 👋 , I am Aashish Kushwaha , an aspiring Devops and MLops enthusiast.
+🚀 I am passionate about exploring the exciting world of DevOps and MLOps to optimize and automate the deployment, management, and scaling of applications and machine .
+
+#🌱 I’m currently learning :
 - DevOps practices and tools
 - CI/CD pipelines
 - Infrastructure as Code (IaC)
