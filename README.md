@@ -1,4 +1,5 @@
  Hi there 👋 , I am Aashish Kushwaha , an aspiring Devops and MLops enthusiast.
+ 
 🚀 I am passionate about exploring the exciting world of DevOps and MLOps to optimize and automate the deployment, management, and scaling of applications and machine .
 
 🌱 I’m currently learning :
@@ -8,7 +9,8 @@
 - Monitoring and logging
 - Containerization and orchestration (Docker, Kubernetes)
 - MLOps methodologies 
-- 📫 How to reach me: aashishkushwaha056@gmail.com  
+- 📫 How to reach me: aashishkushwaha056@gmail.com
+ 
 🌱 I'm always eager to collaborate and learn from the community. Let's connect and grow together!
 
   # Coding Platform Links :
