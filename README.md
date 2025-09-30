@@ -2,7 +2,7 @@
  
 🚀 I am passionate about exploring the exciting world of DevOps and MLOps to optimize and automate the deployment, management, and scaling of applications and machine .
 
-🌱 I’m currently learning :
+🌱 I have current handson experience on :
 - DevOps practices and tools
 - CI/CD pipelines
 - Infrastructure as Code (IaC)
