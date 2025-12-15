@@ -1,6 +1,6 @@
  Hi there 👋 , I am Aashish Kushwaha , an aspiring Devops and MLOps enthusiast.
  
-🚀 I am passionate about exploring the exciting world of DevOps and MLOps to optimize and automate the deployment, management, and scaling of applications and machine .
+🚀 I am passionate about exploring the exciting world of DevOps, Cloud, SRE and MLOps to optimize and automate the deployment, management, and scaling of applications and machine .
 
 🌱 I have current handson experience on :
 - DevOps practices and tools
